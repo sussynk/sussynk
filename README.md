@@ -1,5 +1,3 @@
-## About Me
-
 # 👋 Hi, I'm Clement!
 
 💻 Software Developer | 🚀 Open Source Enthusiast | 📍 Based in Malaysia
