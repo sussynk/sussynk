@@ -6,7 +6,7 @@
 
 I’m a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy learning new technologies and improving my skills in software development. My goal is to create impactful applications that make a difference!
 
-*   🔭 Currently working on exciting new projects in **Cybersecurity Software**.
+*   🔭 Currently working on exciting new projects in **cybersecurity software**.
 *   🌱 Constantly learning **Python, C, and Java** to enhance my skills.
 *   💡 Interested in AI, cloud computing, and Cybersecurity solutions.
 
