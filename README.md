@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Clement!
 
-💻 Software Developer | 🚀 Open Source Enthusiast | 📍 Based in Malaysia
+💻 Software Developer | 🚀 Tech Enthusiast | 📍 Based in Malaysia
 
 ## ✨ About Me
 
-I’m a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy learning new technologies and improving my skills in software development. My goal is to create impactful applications that make a difference!
+I’m a passionate developer who loves building innovative solutions and trying open-source projects. I enjoy learning new technologies and improving my skills in software development. My goal is to create impactful applications that make a difference!
 
 *   🔭 Currently working on exciting new projects in **cybersecurity software**.
 *   🌱 Constantly learning **Python, C, and Java** to enhance my skills.
@@ -12,9 +12,9 @@ I’m a passionate developer who loves building innovative solutions and contrib
 
 ## My Skills
 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
