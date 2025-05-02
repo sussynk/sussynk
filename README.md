@@ -13,6 +13,7 @@ I’m a passionate developer who loves building innovative solutions and trying 
 ## My Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
