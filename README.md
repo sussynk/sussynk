@@ -17,6 +17,8 @@ I’m a passionate developer who loves building innovative solutions and trying 
 <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
 
 ## GitHub Stats
