@@ -21,6 +21,11 @@ I’m a passionate developer who loves building innovative solutions and trying 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
 
+## Field of interest
+* Machine Learning and Artificial Intelligence (AI)
+* Cybersecurity
+* Finance and Taxation
+
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
