@@ -38,5 +38,5 @@ I’m a passionate developer who loves building innovative solutions and trying 
 [![linkedin](https://linkedin-github-readme.onrender.com/api/render/Clement%20Chong/%20/%20/%20/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E03AQFJInJnUgk43Q%2Fprofile-displayphoto-shrink_200_200%2FB4EZYs8SqBGYAY-%2F0%2F1744510725255%3Fe%3D1751500800%26v%3Dbeta%26t%3DS5SXJ8HQYK_Ro6Dk6mxMBaXssXVup_1MOREP3yFgKj4)](https://www.linkedin.com/in/clementtech/)
 
 Test:
-![linkedin](assets/index/linkedin/linkedin.svg)(https://www.linkedin.com/in/clementtech/)
+[![linkedin](assets/index/linkedin/linkedin.svg)](https://www.linkedin.com/in/clementtech/)
 
