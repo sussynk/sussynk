@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Clement!
 
-💻 Software Developer | 🚀 Tech Enthusiast | 🐱 Beginner "Hecker"
-
-## ✨ About Me
-
 I’m a passionate developer who loves building innovative solutions and trying open-source projects. I enjoy learning new technologies and improving my skills in software development. My goal is to create impactful applications that make a difference!
 
 ## My Skills
