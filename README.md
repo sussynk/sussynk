@@ -5,7 +5,7 @@ I’m a passionate developer who loves building innovative solutions and trying 
 ## Field of interest
 * Machine Learning and Artificial Intelligence (AI)
 * Cybersecurity
-* Cyberwarfare
+* Lego
   
 ## GitHub Stats
 
