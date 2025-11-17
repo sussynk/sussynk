@@ -2,11 +2,6 @@
 
 I’m a passionate developer who loves building innovative solutions and trying open-source projects. I enjoy learning new technologies and improving my skills in software development. My goal is to create impactful applications that make a difference!
 
-## Field of interest
-* Machine Learning and Artificial Intelligence (AI)
-* Cybersecurity
-* Lego
-  
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
